@@ -22,3 +22,4 @@
 
 # WinMerge .bak files #
 #######################
+*.bak
