@@ -1,5 +1,5 @@
 # exp1_HelloGit
-Example Java project created via STS as Java Project, that we used to;
+Example Java project created via STS as Java Project, to show how to;
 - make a project version controlled via git storing .git in directory in the project itself
 - create remote github project
 - set remote repository of the project to github one created above
@@ -13,17 +13,20 @@ Example Java project created via STS as Java Project, that we used to;
 
 ## To create repository in github
 - Login to github at https://github.com
-- Select the organization, if you had created one, at https://github.com from pull down on left center of screen under you github account name
+- If you had created an organization, select the organization at https://github.com from pull down on left center of screen under your github account name
 - Click green "New repository" button near right top corner
-- Enter "exp1_HelloGit" (or whatever you want) as remote Repository name, click green "Create repository" button toward buttom left
-- Click green "Clone or download" button toward right midddle/top part of screen
+- Enter "exp1_HelloGit" (or whatever you want) as remote Repository name, click green "Create repository" button toward bottom left
+
+## To get URL of github repository
+Go to the repository in github
+- Click green "Clone or download" button toward right middle/top part of screen
 - Click the icon that looks like little book with an arrow, on right of the url
 
-## To set remote repository of the project to github
+## To set remote repository of the project to github repository
 - In STS switch to Git perspective (on top right corner click on Yellow barrel displaying GIT)
 - Expand the project on left "Git Repositories" window by clicking arrow next to it
 - Remotes should be empty
 - Right click on Remotes, select "Create Remote"
-TODO ilker addToMe
+<br>TODO ilker addToMe
 
 # To 
