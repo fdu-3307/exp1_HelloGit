@@ -7,6 +7,11 @@
 # Compiled class files #
 ########################
 /bin/
+/target/
+
+# local git repo #
+##################
+.git/
 
 # Package Files #
 #################
